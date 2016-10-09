@@ -11,7 +11,7 @@ package $7장.$10번문제.$문제;
  * 
  */
 public class $10번문제 {
-
+	//주석
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MyTv2 tv = new MyTv2();
